@@ -39,7 +39,9 @@ Rather than focusing purely on academic novelty, this project aims to serve as a
 ## Approach
 
 ### Data
-- **Evaluation Dataset**: PubMedQA (reasoning-required biomedical QA)
+- **Evaluation Dataset**: PubMedQA (reasoning-required biomedical QA) https://pubmedqa.github.io/
+<img width="299" height="49" alt="image" src="https://github.com/user-attachments/assets/f461a441-5874-4806-ac00-2b91e02f12a6" />
+
 - **Knowledge Corpus for RAG**: PubMed abstracts
 - **Personalization Sou**
 
