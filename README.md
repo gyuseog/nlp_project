@@ -73,15 +73,6 @@ Rather than focusing purely on academic novelty, this project aims to serve as a
 #### Results
 ---
 
-## Key Idea
-
-Rather than embedding all medical and personal knowledge into model parameters, this project explores **RAG as a flexible and lightweight alternative** that enables:
-
-- Medical specialization without full fine-tuning
-- Privacy-preserving personalization
-- Practical deployment on local or embedded environments
-
----
 
 ## Limitations
 
