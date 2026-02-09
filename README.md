@@ -2,7 +2,7 @@
 
 Introduction to NLP Project, Feb 2026
 
-Gyuseog Hong
+Gyuseog Hong   
 LG electronics
 
 ## About This Project
