@@ -60,6 +60,8 @@ Rather than focusing purely on academic novelty, this project aims to serve as a
 - Biomedical QA performance on PubMedQA
 - Reasoning capability comparison across models
 - Performance of small/local models with RAG
+- While EVAL_N = 500 is commonly adopted for evaluation, the experiments in this project were conducted with EVAL_N = 200 due to limited computational resources.
+
 
 #### Results
 
@@ -86,6 +88,7 @@ Rather than embedding all medical and personal knowledge into model parameters, 
 - Limited computational resources prevented fully controlled comparisons.
 - Lack of standardized evaluation metrics for personalization.
 - Advanced RAG strategies and optimizations were not fully explored.
+- While EVAL_N = 500 is commonly adopted for evaluation, the experiments in this project were conducted with EVAL_N = 200 due to limited computational resources.
 
 ---
 
